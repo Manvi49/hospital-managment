@@ -1,0 +1,25 @@
+
+# Node.js dependencies
+node_modules/
+
+# Environment configuration
+config.env
+backend/config.env
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+build/
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
