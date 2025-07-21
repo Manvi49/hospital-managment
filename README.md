@@ -9,7 +9,7 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Overview](#overview)
 
 ---
 
@@ -78,7 +78,7 @@ Doctor can manage appointments, update availability, and view patient data.
 Patient can book appointments, view status, and update their profile.
 
 All routes are protected with JWT authentication.
-## Screenshots
+## Overview
 Here’s a preview of **ZeeCare** in action:
 1. Sign-Up Page
 Users can create accounts based on their roles (patient or doctor).
